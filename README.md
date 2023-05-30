@@ -1,6 +1,6 @@
 <h1>Hello World! I'm Luan 👋</h1>
 
-<h2>I'm a student at Driven Education</h2>
+<h2>Eu sou uma pessoa Desenvolvedora de Software Full Stack</h2>
 
 <!--
 **LuanMed/LuanMed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
