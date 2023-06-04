@@ -22,4 +22,9 @@ Here are some ideas to get you started:
 
 -->
 
-![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=LuanMed&show_icons=true)
+- 🌱 Atualmente estou estudando JavaScript!
+- 💬 Me pergunte sobre programação.
+- 📫 Como me contatar: me envie um e-mail em luanmede@gmail.com
+- ⚡ Fun fact: eu amo filmes e jogos!
+
+![LuanMed's github stats](https://github-readme-stats.vercel.app/api?username=LuanMed&show_icons=true)
