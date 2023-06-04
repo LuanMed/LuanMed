@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 - 📫 Como me contatar: me envie um e-mail em luanmede@gmail.com
 - ⚡ Fun fact: eu amo filmes e jogos!
 
+### 📈 Meus status:
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuanMed&show_icons=true&theme=nightowl" height="140"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMed&layout=compact&langs_count=7&theme=nightowl"/>  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuanMed&show_icons=true&theme=nightowl"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMed&layout=compact&langs_count=7&theme=nightowl"/>  
 </div>
-<!-- 
-<img src="https://github-readme-stats.vercel.app/api?username=LuanMed&show_icons=true&theme=nightowl"  height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMed&compact&langs_count=7=true&theme=nightowl"  height="140"/> -->
