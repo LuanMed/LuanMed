@@ -21,13 +21,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+## 🧐 Sobre mim:
 
+- 🔭 Estou trabalhando no meu portfólio!
 - 🌱 Atualmente estou estudando JavaScript!
 - 💬 Me pergunte sobre programação.
 - 📫 Como me contatar: me envie um e-mail em luanmede@gmail.com
 - ⚡ Fun fact: eu amo filmes e jogos!
 
-### 📈 Meus status:
+## 📈 Meus status:
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuanMed&show_icons=true&theme=nightowl"/>
