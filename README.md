@@ -2,6 +2,10 @@
 
 <h2>Eu sou uma pessoa Desenvolvedora de Software Full Stack</h2>
 
+[Linkedin Badge](https://img.shields.io/badge/-luan-medeiros-alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-medeiros-alves/)](https://www.linkedin.com/in/luan-medeiros-alves/)
+[![GitHub followers](https://img.shields.io/github/followers/LuanMed?label=Follow&style=social)](https://github.com/LuanMed/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-luanmede@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanmede@gmail.com)](mailto:luanmede@gmail.com)
+
 <!--
 **LuanMed/LuanMed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
