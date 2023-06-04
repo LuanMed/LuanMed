@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 - 📫 Como me contatar: me envie um e-mail em luanmede@gmail.com
 - ⚡ Fun fact: eu amo filmes e jogos!
 
-![LuanMed's github stats](https://github-readme-stats.vercel.app/api?username=LuanMed&show_icons=true&theme=nightowl)
-![LuanMed's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMed&compact&langs_count=7=true&theme=nightowl)
+<img src="https://github-readme-stats.vercel.app/api?username=LuanMed&show_icons=true&theme=nightowl'  height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanMed&compact&langs_count=7=true&theme=nightowl"  height="140"/>
